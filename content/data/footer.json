@@ -11,7 +11,7 @@
             {
                 "label": "E-Mail: info@juwelierschilling.de",
                 "altText": "Features page",
-                "url": "/",
+                "url": "",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -19,7 +19,7 @@
             },
             {
                 "label": "Telefon:  +49 7351 6506",
-                "url": "/pricing",
+                "url": "",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -27,7 +27,7 @@
             },
             {
                 "label": "Adresse: Hindenburgstraße 14, 88400 Biberach an der Riß, Deutschland",
-                "url": "/",
+                "url": "",
                 "icon": "arrowRight",
                 "iconPosition": "left",
                 "style": "secondary",
