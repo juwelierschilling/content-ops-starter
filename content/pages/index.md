@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Biberach an der Riß
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Unser Onlineshop befindet sich vorübergehend in einer technischen Wartung.
+      Währenddessen beraten wir Sie natürlich weiterhin persönlich vor Ort. Bei
+      weiteren Anliegen können Sie uns auch per Telefon oder Mail kontaktieren. 
     actions:
       - label: Kontaktieren
         altText: ''
