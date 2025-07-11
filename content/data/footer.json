@@ -29,7 +29,7 @@
                 "label": "Adresse: Hindenburgstraße 14, 88400 Biberach an der Riß, Deutschland",
                 "url": "/",
                 "icon": "arrowRight",
-                "iconPosition": "right",
+                "iconPosition": "left",
                 "style": "secondary",
                 "type": "Link"
             }
