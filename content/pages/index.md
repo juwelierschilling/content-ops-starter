@@ -11,7 +11,8 @@ sections:
     text: >
       Unser Onlineshop befindet sich vorübergehend in einer technischen Wartung.
       Währenddessen beraten wir Sie natürlich weiterhin persönlich vor Ort. Bei
-      weiteren Anliegen können Sie uns auch per Telefon oder Mail kontaktieren. 
+      weiteren Anliegen können Sie uns auch per Telefon oder Mail gerne
+      kontaktieren.
     actions:
       - type: Link
         label: Send email
