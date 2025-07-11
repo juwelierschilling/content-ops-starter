@@ -13,16 +13,7 @@ sections:
       Währenddessen beraten wir Sie natürlich weiterhin persönlich vor Ort. Bei
       weiteren Anliegen können Sie uns auch per Telefon oder Mail gerne
       kontaktieren.
-    actions:
-      - type: Link
-        label: Send email
-        altText: Play
-        url: ''
-        showIcon: true
-        icon: mail
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
     media:
       url: /images/IMG_1402.jpg
       altText: Unblock your team boost your time to production preview
