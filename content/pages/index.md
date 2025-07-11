@@ -45,54 +45,11 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Kontaktformular
+      text: Kontaktmöglichkeiten
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: "Sie können uns weiterhin per Telefon und Mail kontaktieren.\n\nWir antworten auf das Kontaktformular so schnell wie möglich.\n\nTel:\_+49 7351 6506\n\nMail: info\\@juwelierschilling.de\n"
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Dein Name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Deine Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Deine Anfrage
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Abschicken
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
+    text: "Sie können uns weiterhin per Telefon und Mail kontaktieren.\n\nWir antworten auf das Kontaktformular so schnell wie möglich.\n\nTel:\_+49 7351 6506\n\nMail: <info@juwelierschilling.de>\n\nVor Ort: [Hindenburgstraße 14, 88400 Biberach an der Riß, Deutschland](https://devserver-preview--juwelierschilling.netlify.app/)\n"
     badge:
       label: ''
       color: text-primary
