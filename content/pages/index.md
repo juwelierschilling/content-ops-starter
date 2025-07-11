@@ -22,6 +22,15 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - type: Link
+        label: Send email
+        altText: Play
+        url: /info@juwelierschilling.de
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       url: /images/IMG_1402.jpg
       altText: Unblock your team boost your time to production preview
