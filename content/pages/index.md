@@ -49,7 +49,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: "Sie können uns weiterhin per Telefon und Mail kontaktieren.\n\nWir antworten auf das Kontaktformular so schnell wie möglich.\n\nTel:\_+49 7351 6506\n\nMail: <info@juwelierschilling.de>\n\nVor Ort: [Hindenburgstraße 14, 88400 Biberach an der Riß, Deutschland](https://devserver-preview--juwelierschilling.netlify.app/)\n"
+    text: "Sie können uns weiterhin per Telefon und Mail kontaktieren.\n\nTel:\_+49 7351 6506\n\nMail: <info@juwelierschilling.de>\n\nVor Ort: [Hindenburgstraße 14, 88400 Biberach an der Riß, Deutschland](https://devserver-preview--juwelierschilling.netlify.app/)\n"
     badge:
       label: ''
       color: text-primary
