@@ -1,15 +1,15 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/Bildschirmfoto 2025-07-11 um 03.10.50-Photoroom.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Kontakt",
         "links": [
             {
-                "label": "Features",
+                "label": "E-Mail: info@juwelierschilling.de",
                 "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
@@ -18,7 +18,7 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
+                "label": "Telefon:  +49 7351 6506",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -26,10 +26,10 @@
                 "type": "Link"
             },
             {
-                "label": "Documentation",
+                "label": "Adresse: Hindenburgstraße 14, 88400 Biberach an der Riß, Deutschland",
                 "url": "/",
                 "icon": "arrowRight",
-                "iconPosition": "right",
+                "iconPosition": "left",
                 "style": "secondary",
                 "type": "Link"
             }
@@ -37,19 +37,10 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
+                "label": "",
                 "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -59,50 +50,8 @@
         ],
         "type": "FooterLinksGroup"
     },
-    "socialLinks": [
-        {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
-    "legalLinks": [
-        {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "socialLinks": [],
+    "legalLinks": [],
     "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
