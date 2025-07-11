@@ -45,7 +45,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Kontakt
+      text: Kontaktmöglichkeiten
       color: text-dark
       type: TitleBlock
     subtitle: ''
