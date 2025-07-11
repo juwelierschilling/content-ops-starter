@@ -17,7 +17,7 @@ sections:
       - type: Link
         label: Send email
         altText: Play
-        url: /info@juwelierschilling.de
+        url: ''
         showIcon: true
         icon: mail
         iconPosition: right
