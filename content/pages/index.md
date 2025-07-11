@@ -45,7 +45,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Kontaktformular
+      text: Kontakt
       color: text-dark
       type: TitleBlock
     subtitle: ''
