@@ -13,7 +13,7 @@ sections:
       Währenddessen beraten wir Sie natürlich weiterhin persönlich vor Ort. Bei
       weiteren Anliegen können Sie uns auch per Telefon oder Mail kontaktieren. 
     actions:
-      - label: Kontaktieren
+      - label: ''
         altText: ''
         url: /
         showIcon: false
