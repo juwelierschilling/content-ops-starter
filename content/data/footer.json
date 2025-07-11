@@ -11,7 +11,7 @@
             {
                 "label": "E-Mail: info@juwelierschilling.de",
                 "altText": "Features page",
-                "url": "/",
+                "url": "",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
