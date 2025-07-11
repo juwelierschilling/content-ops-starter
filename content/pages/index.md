@@ -57,11 +57,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |+
-      Sie können uns weiterhin per Telefon und Mail kontaktieren. 
-
-      Wir antworten auf das Kontaktformular so schnell wie möglich.
-
+    text: "Sie können uns weiterhin per Telefon und Mail kontaktieren.\n\nWir antworten auf das Kontaktformular so schnell wie möglich.\n\nTel:\_+49 7351 6506\n\nMail: info\\@juwelierschilling.de\n"
     media:
       fields:
         - name: name
